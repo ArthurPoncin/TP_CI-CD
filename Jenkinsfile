@@ -14,10 +14,7 @@ pipeline {
                     sh 'mvn clean test'
                 }
             }
-        }
-
-
-        
+        }        
     }
 }
 
